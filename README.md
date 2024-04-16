@@ -10,3 +10,5 @@
 - Predictive analytics asks, “What might happen in the future?”
 - Prescriptive analytics asks, “What should be done next?”
 - Diagnostic analytics asks, “Why did this happen?”
+
+#The six phases of the analytic process are Asking the question, Getting the data, Investigating the data, Preparing the data, Analyzing the data, and Presenting the results. In real-world applications, the process is iterative.
